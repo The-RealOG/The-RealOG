@@ -28,11 +28,6 @@ Python | C++ | ROS | OpenCV | PyTorch | TensorFlow | Raspberry Pi | React | Djan
 - 💼 [LinkedIn](https://www.linkedin.com/in/chibueze-anyachebelu-8b1098265/)
 - 📂 [GitHub](https://github.com/The-RealOG)
 
-### 📊 GitHub Stats
-![Chibueze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-RealOG&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-RealOG&layout=compact&theme=tokyonight)
-![Visitors](https://komarev.com/ghpvc/?username=The-RealOG&label=PROFILE+VIEWS&style=flat-square)
-
 ---
 
 > "What if we could teach machines to move, adapt, and think like the human body? That's where my journey begins."
