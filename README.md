@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Chibueze Anyachebelu
 
-<!--
-**The-RealOG/The-RealOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 Robotics | 🧠 Neuroscience | 💡 Physical AI
 
-Here are some ideas to get you started:
+I'm an undergraduate double majoring in **Computer Science** and **Neuroscience** at **Northwestern University**, passionate about merging biological intelligence with machine systems. I explore how insights from the human brain and body can inform the design of advanced robotic systems, autonomous agents, and embodied AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects & Interests  
+I enjoy building systems that blend intelligence with embodiment—ranging from robotics to neural interfaces. I typically use **Python**, **C++**, and frameworks like **ROS**, **PyTorch**, and **OpenCV** to get the job done.
+
+- 🤖 Simulating **multi-agent robotic systems** with NVIDIA Isaac Sim, ROS, and Gazebo  
+- 🧠 Developing **brain-computer interfaces** for real-time neural decoding  
+- 📚 Building **AI-powered educational tools** using OCR, LangChain, and HuggingFace  
+- 🔬 Designing **bio-inspired control systems** for adaptive locomotion and manipulation  
+
+
+### 🧰 Tools & Tech
+```
+Python | C++ | ROS | OpenCV | PyTorch | TensorFlow | Raspberry Pi | React | Django | LangChain
+```
+
+### 📚 Currently Learning
+- Visual SLAM & navigation algorithms
+- Neural prosthetics & cognitive architectures
+- Embodied cognition & control theory in robots
+
+### 📎 Connect with Me
+- 🌐 [Portfolio Website](https://the-realog.github.io/Portfolio/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chibueze-anyachebelu-8b1098265/)
+- 📂 [GitHub](https://github.com/The-RealOG)
+
+### 📊 GitHub Stats
+![Chibueze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-RealOG&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-RealOG&layout=compact&theme=tokyonight)
+![Visitors](https://komarev.com/ghpvc/?username=The-RealOG&label=PROFILE+VIEWS&style=flat-square)
+
+---
+
+> "What if we could teach machines to move, adapt, and think like the human body? That's where my journey begins."
