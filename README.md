@@ -15,7 +15,7 @@ I enjoy building systems that blend intelligence with embodiment—ranging from 
 
 ### 🧰 Tools & Tech
 ```
-Python | C++ | ROS | OpenCV | PyTorch | TensorFlow | Raspberry Pi | React | Django | LangChain
+Python | C++ | ROS | OpenCV | CUDA | TensorFlow | Raspberry Pi | React | Django | LangChain
 ```
 
 ### 📚 Currently Learning
