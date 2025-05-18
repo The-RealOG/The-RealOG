@@ -5,7 +5,7 @@
 I'm an undergraduate double majoring in **Computer Science** and **Neuroscience** at **Northwestern University**, passionate about merging biological intelligence with machine systems. I explore how insights from the human brain and body can inform the design of advanced robotic systems, autonomous agents, and embodied AI.
 
 ### 🚀 Projects & Interests  
-I enjoy building systems that blend intelligence with embodiment—ranging from robotics to neural interfaces. I typically use **Python**, **C++**, and frameworks like **ROS**, **PyTorch**, and **OpenCV** to get the job done.
+I enjoy building systems that blend intelligence with embodiment ranging from robotics to neural interfaces. I typically use **Python**, **C++**, and frameworks like **ROS**, **PyTorch**, and **OpenCV** to get the job done.
 
 - 🤖 Simulating **multi-agent robotic systems** with NVIDIA Isaac Sim, ROS, and Gazebo  
 - 🧠 Developing **brain-computer interfaces** for real-time neural decoding  
