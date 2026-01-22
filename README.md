@@ -3,7 +3,7 @@
 
 I am an undergraduate double major in **Computer Science** and **Neuroscience** at **Northwestern University**, with a strong interest in building **intelligent, embodied systems** that operate reliably in real-world environments. My work sits at the intersection of **robotics, biological intelligence, and system-level software engineering**, where principles from neural and physical systems inform the design of scalable autonomous agents.
 
-I am particularly drawn to **Physical AI** - systems that perceive, decide, and act in the world - and to the **infrastructure, distributed ML pipelines, and system software** that make these systems performant, observable, and dependable.
+I am particularly drawn to **Physical AI** (systems that perceive, decide, and act in the world) and to the **infrastructure, distributed ML pipelines, and system software** that make these systems performant, observable, and dependable.
 
 ---
 
