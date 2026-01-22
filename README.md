@@ -11,11 +11,11 @@ I am particularly drawn to **Physical AI** - systems that perceive, decide, and 
 
 My projects span robotics, simulation, and machine learning, with an emphasis on tightly integrated systems rather than isolated models:
 
-- **Multi - agent robotic simulation** using NVIDIA Isaac Sim, ROS2, and Gazebo, with attention to coordination, scalability, and reproducibility  
-- **Brain - computer interface pipelines** for real-time neural signal decoding and closed-loop interaction  
+- **Multi-agent robotic simulation** using NVIDIA Isaac Sim, ROS2, and Gazebo, with attention to coordination, scalability, and reproducibility  
+- **Brain-computer interface pipelines** for real-time neural signal decoding and closed-loop interaction  
 - **Distributed ML systems**, including training and evaluation workflows with performance, monitoring, and reliability in mind  
-- **AI - powered educational platforms** leveraging OCR, retrieval-augmented generation, and large language models  
-- **Bio - inspired control systems** informed by neuroscience and biomechanics for adaptive locomotion and manipulation  
+- **AI-powered platforms** leveraging OCR, retrieval-augmented generation, and large language models  
+- **Bio-inspired control systems** informed by neuroscience and biomechanics for adaptive locomotion and manipulation  
 
 ---
 
